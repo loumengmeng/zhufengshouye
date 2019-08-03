@@ -1,0 +1,42 @@
+html{font-size:100px;}
+header{width:100%;height:1.12rem;background: #2A2A2A;overflow: hidden}
+.logo{float:left;width:2.1rem;height:.64rem;margin:.23rem 0 0 .16rem;}
+.logo a{display: block;width:100%;height:100%;background: url(../images/logo.png) no-repeat;background-size: 100%}
+.menu{float:right;margin:.4rem .23rem 0 0}
+.menu .icon-menu{display: block;width:.36rem;height:.32rem;background: url(../images/2.png) no-repeat;background-size:100%;}
+
+
+.swiper-slide img{width: 100%;display: block}
+
+main{padding: 0 .2rem;background: #F8F8F8;}
+main .ha{width: .29rem;height: .35rem;}
+main .book{width: .29rem;height: .35rem;margin: .33rem .12rem 0rem .19rem;display: inline-block}
+main .en{width:1.04rem;height:.26rem; font-size:.26rem;
+    margin-left: .60rem;}
+main .la{width:1.04rem;height:.26rem;margin: 0 .12px;}
+.item{width: 100%;box-shadow: 0 .05rem .06rem rgba(178,178,178,0.75);border-radius: .05rem;margin-top: .36rem; }
+section img{width: 100%;border-radius: .05rem .05rem 0 0;display: block}
+.item .txt{padding: .3rem ;text-align: center;font-size:.28rem;font-family:MicrosoftYaHei;font-weight:400;   line-height:.24rem;}
+.item .txt h2{ color:#777777;font-size:.28rem;}
+.item .txt p{color: #ed3a3a;margin-top:.24rem}
+
+
+.bottom{width: 100%;height: 1.07rem;font-size: 16px;border-top:.01rem solid #d5d5d5;margin-top: .76rem;position: relative;}
+.left{width: 33.33%;height: 100%;float:left;padding-top:.20rem;text-align: center}
+.center{width: 33.33%;height: 100%;float:left;padding-top:.20rem;text-align: center}
+.right{width: 33.33%;height: 100%;float:left;padding-top:.20rem;text-align: center}
+.home{  margin: 0.3rem .9rem; width: .36rem;
+    height: .36rem;}
+.home img{width: .36rem;height: .36rem;}
+.right a{width:1.33rem;height: .17rem;
+display:inline-block;    }
+.left a{width: 1.33rem;height: .17rem;
+display:inline-block;    }
+.center a{width: 1.33rem;height: .17rem;display:inline-block;  }
+    .left .home1{ position: absolute;top: .20rem;left: 0;display: none}
+    .center .home2{     position: absolute;
+        top: .20rem;
+        left: 2.13rem;
+        display: none
+    }
+    .right .home3{ position: absolute;top: .20rem;left: 4.26rem;display: none}
